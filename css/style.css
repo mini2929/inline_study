@@ -93,3 +93,15 @@ button {
     line-height: 80px;
     text-align: center;
 }
+
+.btnLinkFlex {
+    display: inline-block;
+    font-size: 5rem;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: cornflowerblue;
+
+    margin: 100px;
+    padding: 20px 15px;
+}
