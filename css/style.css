@@ -68,3 +68,9 @@ to right
 to bottom
 to top
 */
+
+button {
+    display: inline-block;
+    display: block;
+    padding: 20px;
+}
